@@ -1,0 +1,1720 @@
+{
+  "generatedAt": "2026-11-26T13:45:31.380Z",
+  "total": 106,
+  "options": {
+    "doAvatar": true,
+    "doPortrait": true,
+    "doBattle": true,
+    "targetW": 720,
+    "qAvatar": 0.86,
+    "qPortrait": 0.84
+  },
+  "counts": {
+    "avatar": 106,
+    "portrait": 106,
+    "battle": 106
+  },
+  "sizes": {
+    "avatar": 1052834,
+    "portrait": 6432026,
+    "battle": 9460702
+  },
+  "characters": [
+    {
+      "id": "053",
+      "name": "乌尔奇奥拉·西法",
+      "group": "反派与十刃",
+      "batch": "批次一",
+      "avatar": "avatar/053.webp",
+      "portrait": "portrait/053.webp",
+      "battle": "battle/053.webp",
+      "crop": {
+        "x": 235,
+        "y": 0,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "054",
+      "name": "碎蜂",
+      "group": "护廷队长",
+      "batch": "批次二",
+      "avatar": "avatar/054.webp",
+      "portrait": "portrait/054.webp",
+      "battle": "battle/054.webp",
+      "crop": {
+        "x": 177,
+        "y": 95,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "055",
+      "name": "狛村左阵",
+      "group": "护廷队长",
+      "batch": "批次二",
+      "avatar": "avatar/055.webp",
+      "portrait": "portrait/055.webp",
+      "battle": "battle/055.webp",
+      "crop": {
+        "x": 277,
+        "y": 0,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "056",
+      "name": "涅茧利",
+      "group": "护廷队长",
+      "batch": "批次二",
+      "avatar": "avatar/056.webp",
+      "portrait": "portrait/056.webp",
+      "battle": "battle/056.webp",
+      "crop": {
+        "x": 305,
+        "y": 0,
+        "size": 453,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "057",
+      "name": "诺伊特拉·吉尔加",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/057.webp",
+      "portrait": "portrait/057.webp",
+      "battle": "battle/057.webp",
+      "crop": {
+        "x": 141,
+        "y": 0,
+        "size": 531,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "058",
+      "name": "拜勒岗·鲁伊森邦",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/058.webp",
+      "portrait": "portrait/058.webp",
+      "battle": "battle/058.webp",
+      "crop": {
+        "x": 303,
+        "y": 103,
+        "size": 435,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "059",
+      "name": "柯雅泰·史塔克",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/059.webp",
+      "portrait": "portrait/059.webp",
+      "battle": "battle/059.webp",
+      "crop": {
+        "x": 282,
+        "y": 21,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "060",
+      "name": "京乐春水",
+      "group": "护廷队长",
+      "batch": "批次一",
+      "avatar": "avatar/060.webp",
+      "portrait": "portrait/060.webp",
+      "battle": "battle/060.webp",
+      "crop": {
+        "x": 205,
+        "y": 10,
+        "size": 414,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "061",
+      "name": "市丸银",
+      "group": "护廷队长",
+      "batch": "批次二",
+      "avatar": "avatar/061.webp",
+      "portrait": "portrait/061.webp",
+      "battle": "battle/061.webp",
+      "crop": {
+        "x": 292,
+        "y": 0,
+        "size": 270,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "062",
+      "name": "东仙要",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/062.webp",
+      "portrait": "portrait/062.webp",
+      "battle": "battle/062.webp",
+      "crop": {
+        "x": 224,
+        "y": 0,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "063",
+      "name": "卯之花烈",
+      "group": "尸魂界名宿",
+      "batch": "批次一",
+      "avatar": "avatar/063.webp",
+      "portrait": "portrait/063.webp",
+      "battle": "battle/063.webp",
+      "crop": {
+        "x": 247,
+        "y": 19,
+        "size": 393,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "064",
+      "name": "浦原喜助",
+      "group": "尸魂界名宿",
+      "batch": "批次一",
+      "avatar": "avatar/064.webp",
+      "portrait": "portrait/064.webp",
+      "battle": "battle/064.webp",
+      "crop": {
+        "x": 200,
+        "y": 25,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "065",
+      "name": "四枫院夜一",
+      "group": "尸魂界名宿",
+      "batch": "批次一",
+      "avatar": "avatar/065.webp",
+      "portrait": "portrait/065.webp",
+      "battle": "battle/065.webp",
+      "crop": {
+        "x": 262,
+        "y": 14,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "066",
+      "name": "葛力姆乔·贾卡杰克",
+      "group": "反派与十刃",
+      "batch": "批次一",
+      "avatar": "avatar/066.webp",
+      "portrait": "portrait/066.webp",
+      "battle": "battle/066.webp",
+      "crop": {
+        "x": 248,
+        "y": 0,
+        "size": 478,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "067",
+      "name": "蒂雅·赫丽贝尔",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/067.webp",
+      "portrait": "portrait/067.webp",
+      "battle": "battle/067.webp",
+      "crop": {
+        "x": 239,
+        "y": 0,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "068",
+      "name": "山本元柳斋重国",
+      "group": "尸魂界名宿",
+      "batch": "批次一",
+      "avatar": "avatar/068.webp",
+      "portrait": "portrait/068.webp",
+      "battle": "battle/068.webp",
+      "crop": {
+        "x": 258,
+        "y": 64,
+        "size": 280,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "069",
+      "name": "兵主部一兵卫",
+      "group": "零番队",
+      "batch": "批次二",
+      "avatar": "avatar/069.webp",
+      "portrait": "portrait/069.webp",
+      "battle": "battle/069.webp",
+      "crop": {
+        "x": 292,
+        "y": 68,
+        "size": 312,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "070",
+      "name": "二枚屋王悦",
+      "group": "零番队",
+      "batch": "批次二",
+      "avatar": "avatar/070.webp",
+      "portrait": "portrait/070.webp",
+      "battle": "battle/070.webp",
+      "crop": {
+        "x": 365,
+        "y": 29,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "071",
+      "name": "浮竹十四郎",
+      "group": "护廷队长",
+      "batch": "批次二",
+      "avatar": "avatar/071.webp",
+      "portrait": "portrait/071.webp",
+      "battle": "battle/071.webp",
+      "crop": {
+        "x": 286,
+        "y": 164,
+        "size": 346,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "072",
+      "name": "平子真子",
+      "group": "假面与席官",
+      "batch": "批次二",
+      "avatar": "avatar/072.webp",
+      "portrait": "portrait/072.webp",
+      "battle": "battle/072.webp",
+      "crop": {
+        "x": 89,
+        "y": 19,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "073",
+      "name": "六车拳西",
+      "group": "假面与席官",
+      "batch": "批次五",
+      "avatar": "avatar/073.webp",
+      "portrait": "portrait/073.webp",
+      "battle": "battle/073.webp",
+      "crop": {
+        "x": 230,
+        "y": 0,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "074",
+      "name": "凤桥楼十郎",
+      "group": "假面与席官",
+      "batch": "批次五",
+      "avatar": "avatar/074.webp",
+      "portrait": "portrait/074.webp",
+      "battle": "battle/074.webp",
+      "crop": {
+        "x": 203,
+        "y": 12,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "075",
+      "name": "萨尔阿波罗·格兰兹",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/075.webp",
+      "portrait": "portrait/075.webp",
+      "battle": "battle/075.webp",
+      "crop": {
+        "x": 226,
+        "y": 0,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "076",
+      "name": "佐马利·路鲁",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/076.webp",
+      "portrait": "portrait/076.webp",
+      "battle": "battle/076.webp",
+      "crop": {
+        "x": 266,
+        "y": 0,
+        "size": 276,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "077",
+      "name": "亚罗尼洛·艾鲁鲁耶利",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/077.webp",
+      "portrait": "portrait/077.webp",
+      "battle": "battle/077.webp",
+      "crop": {
+        "x": 250,
+        "y": 0,
+        "size": 310,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "078",
+      "name": "牙密·里亚尔戈",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/078.webp",
+      "portrait": "portrait/078.webp",
+      "battle": "battle/078.webp",
+      "crop": {
+        "x": 288,
+        "y": 0,
+        "size": 275,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "079",
+      "name": "妮莉艾露·杜·欧德修凡克",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/079.webp",
+      "portrait": "portrait/079.webp",
+      "battle": "battle/079.webp",
+      "crop": {
+        "x": 240,
+        "y": 6,
+        "size": 526,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "080",
+      "name": "爱川罗武",
+      "group": "假面与席官",
+      "batch": "批次五",
+      "avatar": "avatar/080.webp",
+      "portrait": "portrait/080.webp",
+      "battle": "battle/080.webp",
+      "crop": {
+        "x": 252,
+        "y": 0,
+        "size": 406,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "081",
+      "name": "有昭田钵玄",
+      "group": "假面与席官",
+      "batch": "批次五",
+      "avatar": "avatar/081.webp",
+      "portrait": "portrait/081.webp",
+      "battle": "battle/081.webp",
+      "crop": {
+        "x": 207,
+        "y": 0,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "082",
+      "name": "久南白",
+      "group": "假面与席官",
+      "batch": "批次五",
+      "avatar": "avatar/082.webp",
+      "portrait": "portrait/082.webp",
+      "battle": "battle/082.webp",
+      "crop": {
+        "x": 273,
+        "y": 0,
+        "size": 335,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "083",
+      "name": "矢胴丸莉莎",
+      "group": "假面与席官",
+      "batch": "批次五",
+      "avatar": "avatar/083.webp",
+      "portrait": "portrait/083.webp",
+      "battle": "battle/083.webp",
+      "crop": {
+        "x": 286,
+        "y": 11,
+        "size": 299,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "084",
+      "name": "猿柿日世里",
+      "group": "假面与席官",
+      "batch": "批次五",
+      "avatar": "avatar/084.webp",
+      "portrait": "portrait/084.webp",
+      "battle": "battle/084.webp",
+      "crop": {
+        "x": 284,
+        "y": 0,
+        "size": 348,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "085",
+      "name": "桧佐木修兵",
+      "group": "副队长与席官",
+      "batch": "批次二",
+      "avatar": "avatar/085.webp",
+      "portrait": "portrait/085.webp",
+      "battle": "battle/085.webp",
+      "crop": {
+        "x": 226,
+        "y": 40,
+        "size": 397,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "086",
+      "name": "吉良伊鹤",
+      "group": "副队长与席官",
+      "batch": "批次二",
+      "avatar": "avatar/086.webp",
+      "portrait": "portrait/086.webp",
+      "battle": "battle/086.webp",
+      "crop": {
+        "x": 183,
+        "y": 23,
+        "size": 476,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "087",
+      "name": "斑目一角",
+      "group": "副队长与席官",
+      "batch": "批次二",
+      "avatar": "avatar/087.webp",
+      "portrait": "portrait/087.webp",
+      "battle": "battle/087.webp",
+      "crop": {
+        "x": 226,
+        "y": 40,
+        "size": 380,
+        "confirmed": true,
+        "modified": false
+      }
+    },
+    {
+      "id": "088",
+      "name": "绫濑川弓亲",
+      "group": "副队长与席官",
+      "batch": "批次二",
+      "avatar": "avatar/088.webp",
+      "portrait": "portrait/088.webp",
+      "battle": "battle/088.webp",
+      "crop": {
+        "x": 136,
+        "y": 7,
+        "size": 453,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "089",
+      "name": "松本乱菊",
+      "group": "副队长与席官",
+      "batch": "批次二",
+      "avatar": "avatar/089.webp",
+      "portrait": "portrait/089.webp",
+      "battle": "battle/089.webp",
+      "crop": {
+        "x": 204,
+        "y": 3,
+        "size": 472,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "090",
+      "name": "尤葛兰·哈斯沃德",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/090.webp",
+      "portrait": "portrait/090.webp",
+      "battle": "battle/090.webp",
+      "crop": {
+        "x": 317,
+        "y": 49,
+        "size": 254,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "091",
+      "name": "利捷·巴罗",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/091.webp",
+      "portrait": "portrait/091.webp",
+      "battle": "battle/091.webp",
+      "crop": {
+        "x": 175,
+        "y": 19,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "092",
+      "name": "杰拉德·瓦尔基里",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/092.webp",
+      "portrait": "portrait/092.webp",
+      "battle": "battle/092.webp",
+      "crop": {
+        "x": 350,
+        "y": 0,
+        "size": 323,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "093",
+      "name": "佩尼达·帕卡贾",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/093.webp",
+      "portrait": "portrait/093.webp",
+      "battle": "battle/093.webp",
+      "crop": {
+        "x": 243,
+        "y": 130,
+        "size": 344,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "094",
+      "name": "亚斯金·纳克鲁瓦尔",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/094.webp",
+      "portrait": "portrait/094.webp",
+      "battle": "battle/094.webp",
+      "crop": {
+        "x": 424,
+        "y": 0,
+        "size": 340,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "095",
+      "name": "葛雷密·托缪",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/095.webp",
+      "portrait": "portrait/095.webp",
+      "battle": "battle/095.webp",
+      "crop": {
+        "x": 268,
+        "y": 65,
+        "size": 331,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "096",
+      "name": "巴兹比",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/096.webp",
+      "portrait": "portrait/096.webp",
+      "battle": "battle/096.webp",
+      "crop": {
+        "x": 294,
+        "y": 11,
+        "size": 288,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "097",
+      "name": "艾斯·诺特",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/097.webp",
+      "portrait": "portrait/097.webp",
+      "battle": "battle/097.webp",
+      "crop": {
+        "x": 294,
+        "y": 14,
+        "size": 263,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "098",
+      "name": "邦比爱塔·芭丝塔拜姻",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/098.webp",
+      "portrait": "portrait/098.webp",
+      "battle": "battle/098.webp",
+      "crop": {
+        "x": 317,
+        "y": 0,
+        "size": 275,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "099",
+      "name": "基路杰·欧丕",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/099.webp",
+      "portrait": "portrait/099.webp",
+      "battle": "battle/099.webp",
+      "crop": {
+        "x": 282,
+        "y": 0,
+        "size": 295,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "100",
+      "name": "玛斯库·德·马斯库林",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/100.webp",
+      "portrait": "portrait/100.webp",
+      "battle": "battle/100.webp",
+      "crop": {
+        "x": 296,
+        "y": 0,
+        "size": 290,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "101",
+      "name": "吉赛尔·茱艾儿",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/101.webp",
+      "portrait": "portrait/101.webp",
+      "battle": "battle/101.webp",
+      "crop": {
+        "x": 264,
+        "y": 0,
+        "size": 329,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "102",
+      "name": "苍都",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/102.webp",
+      "portrait": "portrait/102.webp",
+      "battle": "battle/102.webp",
+      "crop": {
+        "x": 261,
+        "y": 0,
+        "size": 297,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "103",
+      "name": "嘉蒂丝·卡特尼普",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/103.webp",
+      "portrait": "portrait/103.webp",
+      "battle": "battle/103.webp",
+      "crop": {
+        "x": 322,
+        "y": 0,
+        "size": 335,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "104",
+      "name": "米妮娜·麦卡龙",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/104.webp",
+      "portrait": "portrait/104.webp",
+      "battle": "battle/104.webp",
+      "crop": {
+        "x": 228,
+        "y": 0,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "105",
+      "name": "罗伯特·阿久特隆",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/105.webp",
+      "portrait": "portrait/105.webp",
+      "battle": "battle/105.webp",
+      "crop": {
+        "x": 245,
+        "y": 0,
+        "size": 335,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "106",
+      "name": "裴裴·瓦卡布拉达",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/106.webp",
+      "portrait": "portrait/106.webp",
+      "battle": "battle/106.webp",
+      "crop": {
+        "x": 277,
+        "y": 56,
+        "size": 295,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "107",
+      "name": "奈纳·库普兰",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/107.webp",
+      "portrait": "portrait/107.webp",
+      "battle": "battle/107.webp",
+      "crop": {
+        "x": 217,
+        "y": 0,
+        "size": 410,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "108",
+      "name": "银城空吾",
+      "group": "完现术者",
+      "batch": "批次五",
+      "avatar": "avatar/108.webp",
+      "portrait": "portrait/108.webp",
+      "battle": "battle/108.webp",
+      "crop": {
+        "x": 267,
+        "y": 0,
+        "size": 284,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "109",
+      "name": "月岛秀九郎",
+      "group": "完现术者",
+      "batch": "批次五",
+      "avatar": "avatar/109.webp",
+      "portrait": "portrait/109.webp",
+      "battle": "battle/109.webp",
+      "crop": {
+        "x": 303,
+        "y": 0,
+        "size": 239,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "110",
+      "name": "雪绪·汉斯·佛拉尔贝尔纳",
+      "group": "完现术者",
+      "batch": "批次五",
+      "avatar": "avatar/110.webp",
+      "portrait": "portrait/110.webp",
+      "battle": "battle/110.webp",
+      "crop": {
+        "x": 324,
+        "y": 23,
+        "size": 273,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "111",
+      "name": "毒峰莉露卡",
+      "group": "完现术者",
+      "batch": "批次五",
+      "avatar": "avatar/111.webp",
+      "portrait": "portrait/111.webp",
+      "battle": "battle/111.webp",
+      "crop": {
+        "x": 261,
+        "y": 0,
+        "size": 335,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "112",
+      "name": "贾姬·特里斯坦",
+      "group": "完现术者",
+      "batch": "批次五",
+      "avatar": "avatar/112.webp",
+      "portrait": "portrait/112.webp",
+      "battle": "battle/112.webp",
+      "crop": {
+        "x": 277,
+        "y": 0,
+        "size": 310,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "113",
+      "name": "狮子河原萌笑",
+      "group": "完现术者",
+      "batch": "批次五",
+      "avatar": "avatar/113.webp",
+      "portrait": "portrait/113.webp",
+      "battle": "battle/113.webp",
+      "crop": {
+        "x": 231,
+        "y": 0,
+        "size": 326,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "114",
+      "name": "修多罗千手丸",
+      "group": "零番队",
+      "batch": "批次二",
+      "avatar": "avatar/114.webp",
+      "portrait": "portrait/114.webp",
+      "battle": "battle/114.webp",
+      "crop": {
+        "x": 241,
+        "y": 0,
+        "size": 350,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "115",
+      "name": "麒麟寺天示郎",
+      "group": "零番队",
+      "batch": "批次二",
+      "avatar": "avatar/115.webp",
+      "portrait": "portrait/115.webp",
+      "battle": "battle/115.webp",
+      "crop": {
+        "x": 226,
+        "y": 40,
+        "size": 380,
+        "confirmed": true,
+        "modified": false
+      }
+    },
+    {
+      "id": "116",
+      "name": "曳舟桐生",
+      "group": "零番队",
+      "batch": "批次二",
+      "avatar": "avatar/116.webp",
+      "portrait": "portrait/116.webp",
+      "battle": "battle/116.webp",
+      "crop": {
+        "x": 224,
+        "y": 0,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "117",
+      "name": "黑崎一心",
+      "group": "尸魂界名宿",
+      "batch": "批次五",
+      "avatar": "avatar/117.webp",
+      "portrait": "portrait/117.webp",
+      "battle": "battle/117.webp",
+      "crop": {
+        "x": 316,
+        "y": 38,
+        "size": 237,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "118",
+      "name": "石田龙弦",
+      "group": "尸魂界名宿",
+      "batch": "批次五",
+      "avatar": "avatar/118.webp",
+      "portrait": "portrait/118.webp",
+      "battle": "battle/118.webp",
+      "crop": {
+        "x": 251,
+        "y": 8,
+        "size": 269,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "119",
+      "name": "握菱铁斋",
+      "group": "尸魂界名宿",
+      "batch": "批次五",
+      "avatar": "avatar/119.webp",
+      "portrait": "portrait/119.webp",
+      "battle": "battle/119.webp",
+      "crop": {
+        "x": 325,
+        "y": 0,
+        "size": 229,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "120",
+      "name": "多鲁多尼·亚历山卓戴尔·索卡奇欧",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/120.webp",
+      "portrait": "portrait/120.webp",
+      "battle": "battle/120.webp",
+      "crop": {
+        "x": 269,
+        "y": 0,
+        "size": 273,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "121",
+      "name": "缇鲁蒂·桑达薇琪",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/121.webp",
+      "portrait": "portrait/121.webp",
+      "battle": "battle/121.webp",
+      "crop": {
+        "x": 265,
+        "y": 0,
+        "size": 308,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "122",
+      "name": "鲁毕·安特诺尔",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/122.webp",
+      "portrait": "portrait/122.webp",
+      "battle": "battle/122.webp",
+      "crop": {
+        "x": 328,
+        "y": 0,
+        "size": 254,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "123",
+      "name": "芬朵尔·凯利亚司",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/123.webp",
+      "portrait": "portrait/123.webp",
+      "battle": "battle/123.webp",
+      "crop": {
+        "x": 252,
+        "y": 0,
+        "size": 261,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "124",
+      "name": "大前田希千代",
+      "group": "副队长与席官",
+      "batch": "批次六",
+      "avatar": "avatar/124.webp",
+      "portrait": "portrait/124.webp",
+      "battle": "battle/124.webp",
+      "crop": {
+        "x": 290,
+        "y": 0,
+        "size": 256,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "125",
+      "name": "伊势七绪",
+      "group": "副队长与席官",
+      "batch": "批次二",
+      "avatar": "avatar/125.webp",
+      "portrait": "portrait/125.webp",
+      "battle": "battle/125.webp",
+      "crop": {
+        "x": 280,
+        "y": 47,
+        "size": 414,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "126",
+      "name": "BG9",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/126.webp",
+      "portrait": "portrait/126.webp",
+      "battle": "battle/126.webp",
+      "crop": {
+        "x": 222,
+        "y": 0,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "127",
+      "name": "志波海燕",
+      "group": "副队长与席官",
+      "batch": "批次六",
+      "avatar": "avatar/127.webp",
+      "portrait": "portrait/127.webp",
+      "battle": "battle/127.webp",
+      "crop": {
+        "x": 235,
+        "y": 4,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "128",
+      "name": "黑崎一护",
+      "group": "主角团",
+      "batch": "批次一",
+      "avatar": "avatar/128.webp",
+      "portrait": "portrait/128.webp",
+      "battle": "battle/128.webp",
+      "crop": {
+        "x": 371,
+        "y": 17,
+        "size": 293,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "129",
+      "name": "蓝染惣右介",
+      "group": "反派与十刃",
+      "batch": "批次一",
+      "avatar": "avatar/129.webp",
+      "portrait": "portrait/129.webp",
+      "battle": "battle/129.webp",
+      "crop": {
+        "x": 228,
+        "y": 14,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "130",
+      "name": "友哈巴赫",
+      "group": "反派与十刃",
+      "batch": "批次一",
+      "avatar": "avatar/130.webp",
+      "portrait": "portrait/130.webp",
+      "battle": "battle/130.webp",
+      "crop": {
+        "x": 277,
+        "y": 194,
+        "size": 304,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "131",
+      "name": "石田雨龙",
+      "group": "主角团",
+      "batch": "批次一",
+      "avatar": "avatar/131.webp",
+      "portrait": "portrait/131.webp",
+      "battle": "battle/131.webp",
+      "crop": {
+        "x": 261,
+        "y": 83,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "132",
+      "name": "朽木露琪亚",
+      "group": "主角团",
+      "batch": "批次一",
+      "avatar": "avatar/132.webp",
+      "portrait": "portrait/132.webp",
+      "battle": "battle/132.webp",
+      "crop": {
+        "x": 224,
+        "y": 104,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "133",
+      "name": "朽木白哉",
+      "group": "护廷队长",
+      "batch": "批次一",
+      "avatar": "avatar/133.webp",
+      "portrait": "portrait/133.webp",
+      "battle": "battle/133.webp",
+      "crop": {
+        "x": 107,
+        "y": 0,
+        "size": 395,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "134",
+      "name": "日番谷冬狮郎",
+      "group": "护廷队长",
+      "batch": "批次一",
+      "avatar": "avatar/134.webp",
+      "portrait": "portrait/134.webp",
+      "battle": "battle/134.webp",
+      "crop": {
+        "x": 124,
+        "y": 4,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "135",
+      "name": "阿散井恋次",
+      "group": "副队长与席官",
+      "batch": "批次二",
+      "avatar": "avatar/135.webp",
+      "portrait": "portrait/135.webp",
+      "battle": "battle/135.webp",
+      "crop": {
+        "x": 380,
+        "y": 0,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "136",
+      "name": "井上织姬",
+      "group": "主角团",
+      "batch": "批次一",
+      "avatar": "avatar/136.webp",
+      "portrait": "portrait/136.webp",
+      "battle": "battle/136.webp",
+      "crop": {
+        "x": 241,
+        "y": 1,
+        "size": 506,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "137",
+      "name": "茶渡泰虎",
+      "group": "主角团",
+      "batch": "批次二",
+      "avatar": "avatar/137.webp",
+      "portrait": "portrait/137.webp",
+      "battle": "battle/137.webp",
+      "crop": {
+        "x": 318,
+        "y": 0,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "138",
+      "name": "草鹿八千流",
+      "group": "副队长与席官",
+      "batch": "批次六",
+      "avatar": "avatar/138.webp",
+      "portrait": "portrait/138.webp",
+      "battle": "battle/138.webp",
+      "crop": {
+        "x": 298,
+        "y": 0,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "139",
+      "name": "涅音梦",
+      "group": "副队长与席官",
+      "batch": "批次二",
+      "avatar": "avatar/139.webp",
+      "portrait": "portrait/139.webp",
+      "battle": "battle/139.webp",
+      "crop": {
+        "x": 225,
+        "y": 6,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "140",
+      "name": "雏森桃",
+      "group": "副队长与席官",
+      "batch": "批次六",
+      "avatar": "avatar/140.webp",
+      "portrait": "portrait/140.webp",
+      "battle": "battle/140.webp",
+      "crop": {
+        "x": 298,
+        "y": 27,
+        "size": 280,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "141",
+      "name": "志波岩鹫",
+      "group": "尸魂界名宿",
+      "batch": "批次六",
+      "avatar": "avatar/141.webp",
+      "portrait": "portrait/141.webp",
+      "battle": "battle/141.webp",
+      "crop": {
+        "x": 250,
+        "y": 0,
+        "size": 314,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "142",
+      "name": "志波空鹤",
+      "group": "尸魂界名宿",
+      "batch": "批次六",
+      "avatar": "avatar/142.webp",
+      "portrait": "portrait/142.webp",
+      "battle": "battle/142.webp",
+      "crop": {
+        "x": 209,
+        "y": 0,
+        "size": 463,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "143",
+      "name": "雀部长次郎",
+      "group": "副队长与席官",
+      "batch": "批次六",
+      "avatar": "avatar/143.webp",
+      "portrait": "portrait/143.webp",
+      "battle": "battle/143.webp",
+      "crop": {
+        "x": 295,
+        "y": 4,
+        "size": 239,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "144",
+      "name": "射场铁左卫门",
+      "group": "副队长与席官",
+      "batch": "批次六",
+      "avatar": "avatar/144.webp",
+      "portrait": "portrait/144.webp",
+      "battle": "battle/144.webp",
+      "crop": {
+        "x": 367,
+        "y": 0,
+        "size": 207,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "145",
+      "name": "虎彻勇音",
+      "group": "副队长与席官",
+      "batch": "批次六",
+      "avatar": "avatar/145.webp",
+      "portrait": "portrait/145.webp",
+      "battle": "battle/145.webp",
+      "crop": {
+        "x": 288,
+        "y": 8,
+        "size": 286,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "146",
+      "name": "山田花太郎",
+      "group": "副队长与席官",
+      "batch": "批次六",
+      "avatar": "avatar/146.webp",
+      "portrait": "portrait/146.webp",
+      "battle": "battle/146.webp",
+      "crop": {
+        "x": 247,
+        "y": 0,
+        "size": 312,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "147",
+      "name": "四枫院夕四郎",
+      "group": "尸魂界名宿",
+      "batch": "批次六",
+      "avatar": "avatar/147.webp",
+      "portrait": "portrait/147.webp",
+      "battle": "battle/147.webp",
+      "crop": {
+        "x": 292,
+        "y": 11,
+        "size": 320,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "148",
+      "name": "汪达怀斯·马尔杰拉",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/148.webp",
+      "portrait": "portrait/148.webp",
+      "battle": "battle/148.webp",
+      "crop": {
+        "x": 337,
+        "y": 0,
+        "size": 344,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "149",
+      "name": "莉托托·兰帕德",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/149.webp",
+      "portrait": "portrait/149.webp",
+      "battle": "battle/149.webp",
+      "crop": {
+        "x": 262,
+        "y": 17,
+        "size": 301,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "150",
+      "name": "洛伊德·洛伊德",
+      "group": "无形帝国",
+      "batch": "批次四",
+      "avatar": "avatar/150.webp",
+      "portrait": "portrait/150.webp",
+      "battle": "battle/150.webp",
+      "crop": {
+        "x": 245,
+        "y": 0,
+        "size": 324,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "151",
+      "name": "莉莉妮特·金洁巴克",
+      "group": "反派与十刃",
+      "batch": "批次三",
+      "avatar": "avatar/151.webp",
+      "portrait": "portrait/151.webp",
+      "battle": "battle/151.webp",
+      "crop": {
+        "x": 247,
+        "y": 0,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "152",
+      "name": "魂",
+      "group": "现世与内心世界",
+      "batch": "批次六",
+      "avatar": "avatar/152.webp",
+      "portrait": "portrait/152.webp",
+      "battle": "battle/152.webp",
+      "crop": {
+        "x": 109,
+        "y": 168,
+        "size": 583,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "153",
+      "name": "花刈甚太",
+      "group": "现世与内心世界",
+      "batch": "批次六",
+      "avatar": "avatar/153.webp",
+      "portrait": "portrait/153.webp",
+      "battle": "battle/153.webp",
+      "crop": {
+        "x": 241,
+        "y": 0,
+        "size": 380,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "154",
+      "name": "紬屋雨",
+      "group": "现世与内心世界",
+      "batch": "批次六",
+      "avatar": "avatar/154.webp",
+      "portrait": "portrait/154.webp",
+      "battle": "battle/154.webp",
+      "crop": {
+        "x": 222,
+        "y": 0,
+        "size": 399,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "156",
+      "name": "更木剑八",
+      "group": "护廷队长",
+      "batch": "批次一",
+      "avatar": "avatar/156.webp",
+      "portrait": "portrait/156.webp",
+      "battle": "battle/156.webp",
+      "crop": {
+        "x": 107,
+        "y": 42,
+        "size": 432,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "157",
+      "name": "斩月（旧斩月大叔）",
+      "group": "现世与内心世界",
+      "batch": "批次六",
+      "avatar": "avatar/157.webp",
+      "portrait": "portrait/157.webp",
+      "battle": "battle/157.webp",
+      "crop": {
+        "x": 365,
+        "y": 58,
+        "size": 252,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "158",
+      "name": "白一护（虚白）",
+      "group": "现世与内心世界",
+      "batch": "批次六",
+      "avatar": "avatar/158.webp",
+      "portrait": "portrait/158.webp",
+      "battle": "battle/158.webp",
+      "crop": {
+        "x": 292,
+        "y": 0,
+        "size": 308,
+        "confirmed": true,
+        "modified": true
+      }
+    },
+    {
+      "id": "159",
+      "name": "黑崎真咲",
+      "group": "现世与内心世界",
+      "batch": "批次六",
+      "avatar": "avatar/159.webp",
+      "portrait": "portrait/159.webp",
+      "battle": "battle/159.webp",
+      "crop": {
+        "x": 247,
+        "y": 0,
+        "size": 354,
+        "confirmed": true,
+        "modified": true
+      }
+    }
+  ]
+}
